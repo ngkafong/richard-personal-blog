@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: `Richard's Personal Blog`,
+  author: 'Richard Ng',
+  headerTitle: 'The Rich Get Richard',
+  description: `Richard's Personal Blog. Sharing my ideas on tech, finance, and hassles of life`,
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
