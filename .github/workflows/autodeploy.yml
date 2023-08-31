@@ -1,0 +1,15 @@
+on:
+  push:
+    branches: master
+jobs:
+  build:
+    runs-on: [self-hosted]
+    steps:
+      - name: Pull code
+        run: git pull
+      - name: Install dependencies
+        run: npm install
+      - name: Build project
+        run: npm run build
+      - name: Restart service
+        run: service personal-blog restart

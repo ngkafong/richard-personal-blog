@@ -1,0 +1,19 @@
+{
+  "Pathway to Associate Actuaries": [
+    { "name": "P", "date": "2022.07.19", "color": "bg-sky-300" },
+    { "name": "FM", "date": "2022.08.11", "color": "bg-sky-300" },
+    { "name": "ATPA", "remarks": "IFM", "date": "2022.11.23", "color": "bg-yellow-300" },
+    { "name": "SRM", "date": "2023.01.05", "color": "bg-sky-300" },
+    { "name": "VEE1", "remarks": "CFAL1", "date": "2023.02.19", "color": "bg-green-500" },
+    { "name": "PA", "date": "2023.04.18", "color": "bg-sky-300" },
+    { "name": "VEE2", "remarks": "CFAL2", "date": "2023.11", "pending": true },
+    { "name": "FAM", "date": "2024.03", "pending": true },
+    { "name": "ASTAM/\nALTAM", "date": "2024.05", "pending": true },
+    { "name": "Modules", "date": "2024", "pending": true },
+    { "name": "APC", "date": "2025", "pending": true }
+  ],
+  "Other Targets": [
+    { "name": "CCNA", "date": "2023.07.18", "color": "bg-sky-300" },
+    { "name": "日本語N2", "date": "2024.07", "pending": true }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "Frontend": ["React", "React Native", "TypeScript", "Android Kotlin"],
+  "Server": ["Django", "NodeJS", "PHP", "Nginx"],
+  "Data": ["MongoDB", "SQL", "R", "Python", "VB", "Keras", "Pytorch"],
+  "Other": ["Network (CCNA)"]
+}
